@@ -1,7 +1,5 @@
 
 
-- Install Android Studio :
-
 ## <span style="color: red"> Creation du web service  </span>
 
 ## Class Compte 
