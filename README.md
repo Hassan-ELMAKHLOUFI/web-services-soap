@@ -2,13 +2,13 @@
 
 ## <span style="color: red"> Creation du web service  </span>
 
-## Class Compte 
+## Class Compte
 ![](screens/2.png)
 ## Service Banque
-  ![](screens/1.png)
-## Serveur 
- ![](screens/3.png)
- ## Test de conversion
+![](screens/1.png)
+## Serveur
+![](screens/3.png)
+## Test de conversion
 ![](screens/4.png)
 
 ## Test de get compte
@@ -17,3 +17,13 @@
 ## <span style="color: red"> Creation d'un client Java  </span>
 
 ![](screens/6.png)
+
+
+## Client .NEt
+![](screens/c.png)
+
+## Client PHP
+![](screens/php.png)
+
+![](screens/php1.png)
+
